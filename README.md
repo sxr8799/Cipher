@@ -1,3 +1,3 @@
 # Cipher
 
-Encoding and Decoding text using the Ceaser Cipher.
+Encoding and Decoding text using the Caesar Cipher.
